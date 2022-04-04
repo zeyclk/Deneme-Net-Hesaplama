@@ -1,0 +1,17 @@
+﻿<Window x:Class="DersDeneme.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sonuçlar" Height="300" Width="300" Loaded="Window_Loaded_1" Background="Bisque">
+    <Grid Background="Bisque" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Label Content="Türkçe" FontFamily="arial black" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top" Width="94"/>
+        <Label Content="Sosyal Bilimler" FontFamily="arial black" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top" Width="110"/>
+        <Label Content="Matematik" FontFamily="arial black" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Width="94"/>
+        <Label Content="Fen Bilimleri" FontFamily="arial black" HorizontalAlignment="Left" Margin="10,105,0,15" VerticalAlignment="Top" Width="94"/>
+
+        <TextBlock Name="t1" HorizontalAlignment="Left" Margin="144,20,10,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontFamily="Arial"/>
+        <TextBlock Name="t2" HorizontalAlignment="Left" Margin="144,50,10,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock Name="t3" HorizontalAlignment="Left" Margin="144,80,10,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+       <TextBlock Name="t4" HorizontalAlignment="Left" Margin="144,107,10,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

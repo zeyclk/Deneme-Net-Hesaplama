@@ -1,0 +1,28 @@
+﻿<Window x:Class="DersDeneme.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Net Hesaplama" Height="350" Width="525">
+    <Grid Background="Bisque">
+        <Label x:Name="label" Content=" Doğru" TextBlock.TextAlignment="Center" HorizontalAlignment="Left" Margin="246,12,0,0" VerticalAlignment="Top" FontSize="15" FontWeight="Bold" Width="65"/>
+        <Label x:Name="label1" Content="  Yanlış" TextBlock.TextAlignment="Center" HorizontalAlignment="Left" Margin="380,12,0,0" VerticalAlignment="Top" FontSize="15" FontWeight="Bold" Width="65"/>
+        <Label Content="Türkçe" FontFamily="Arial black" FontSize="15" HorizontalAlignment="Left" Margin="39,45,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Sosyal Bilimler" FontFamily="Arial black" FontSize="15" HorizontalAlignment="Left" Margin="39,100,0,0" VerticalAlignment="Top" Width="135"/>
+        <Label Content="Matematik" FontFamily="Arial black" FontSize="15" HorizontalAlignment="Left" Margin="39,155,0,0" VerticalAlignment="Top" Width="135"/>
+        <Label Content="Fen Bilimleri" FontFamily="Arial black" FontSize="15" HorizontalAlignment="Left" Margin="39,210,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="t_dogru" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="245,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+        <TextBox Name="t_yanlis" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="380,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+        <TextBox Name="s_dogru" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="245,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+        <TextBox Name="s_yanlis" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="380,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+        <TextBox Name="m_dogru" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="245,159,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+        <TextBox Name="m_yanlis" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="380,159,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+        <TextBox Name="f_dogru" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="245,215,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+        <TextBox Name="f_yanlis" PreviewTextInput="PreviewTextInput" HorizontalAlignment="Left" Height="23" Margin="380,215,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="65" MaxLength="2"/>
+
+        <Button Content="Hesapla" FontSize="15" FontFamily="arial" HorizontalAlignment="Left" Margin="380,275,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_1">
+            <Button.Effect>
+                <DropShadowEffect Opacity="0.5"/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\bin\Debug\DersDeneme.exe.config
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\bin\Debug\DersDeneme.exe
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\bin\Debug\DersDeneme.pdb
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\DersDeneme.csprojResolveAssemblyReference.cache
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\MainWindow.baml
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\Window1.baml
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\MainWindow.g.cs
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\Window1.g.cs
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\App.g.cs
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\DersDeneme_MarkupCompile.cache
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\DersDeneme.g.resources
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\DersDeneme.Properties.Resources.resources
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\DersDeneme.csproj.GenerateResource.Cache
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\DersDeneme.exe
+c:\users\feyyaz\documents\visual studio 2012\Projects\DersDeneme\DersDeneme\obj\Debug\DersDeneme.pdb
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\bin\Debug\DersDeneme.exe.config
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\DersDeneme.exe
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\DersDeneme.pdb
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\bin\Debug\DersDeneme.exe
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\bin\Debug\DersDeneme.pdb
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\DersDeneme.csprojResolveAssemblyReference.cache
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\MainWindow.baml
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\Window1.baml
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\MainWindow.g.cs
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\Window1.g.cs
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\App.g.cs
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\DersDeneme_MarkupCompile.cache
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\DersDeneme.g.resources
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\DersDeneme.Properties.Resources.resources
+G:\dosya\BilgisayarDers\Programlar\Pencere2.2\DersDeneme\obj\Debug\DersDeneme.csproj.GenerateResource.Cache
